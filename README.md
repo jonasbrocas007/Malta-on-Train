@@ -4,3 +4,9 @@
 Malta on Train is a framework for MaltaLang, it's job is to manipulate files in MaltaLang, and possibly PobreLang in the future.  
 ### Do i need it to programm in MaltaLang?  
 No, you can use it, it's recommended but not necessary  
+
+### How to use it?  
+First you use the createmalta command.  
+**_Create:_**  python train.py createmalta  
+then run the file:
+**_Run:_**  python train.py run 
