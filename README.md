@@ -10,3 +10,5 @@ First you use the createmalta command.
 **_Create:_**  python train.py createmalta  
 then run the file:  
 **_Run:_**  python train.py run 
+Notes: don't run empty files  
+Creating a file will return a error, don't worry about that  
