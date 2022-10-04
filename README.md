@@ -8,5 +8,5 @@ No, you can use it, it's recommended but not necessary
 ### How to use it?  
 First you use the createmalta command.  
 **_Create:_**  python train.py createmalta  
-then run the file:
+then run the file:  
 **_Run:_**  python train.py run 
